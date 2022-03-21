@@ -1,5 +1,5 @@
 # WoWoRoom 購物平台後台管理
-![image](https://github.com/ying30821/WoWoRoom-manage/blob/main/src/images/readmePic.png)
+![image](https://github.com/ying30821/WoWoRoom-manage/blob/master/src/images/readmePic.png?raw=true)
 
 作品連結：[點擊作品連結](https://managewowo.lumei.website/)
 
